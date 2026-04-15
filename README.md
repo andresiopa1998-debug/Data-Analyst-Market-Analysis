@@ -1,27 +1,82 @@
-# Global Data Analyst Market Trends: A Multi-Tool Analysis (2020-2026)
+# Global Data Analyst Market Trends (2020–2026)
 
-Author: Andre Siopa LinkedIn: www.linkedin.com/in/andré-siopa-5a9b91324
+**Author:** Andre Siopa  
+**LinkedIn:** https://www.linkedin.com/in/andré-siopa-5a9b91324  
 
-Tableu Live Demo: https://public.tableau.com/app/profile/andre.siopa/viz/GlobalDataAnalystMarketAnalysis2020-2026/Dashboard1
+**Tableau Dashboard:**  
+https://public.tableau.com/app/profile/andre.siopa/viz/GlobalDataAnalystMarketAnalysis2020-2026/Dashboard1  
 
-The Executive Summary:
-This project analyzes over 1,500 global job records to identify salary benchmarks and technical skills for Data Analysts. By leveraging Google Sheets, SQL (BigQuery), Python (Pandas), and Tableau, I identified that the market remains remarkably stable with a high demand for AI-integrated skill sets.
+---
 
-Tools Used:
+## Tools Used
+Google Sheets, SQL (BigQuery), Python (Pandas, NumPy), Tableau  
 
-Google Sheets: Initial data exploration and Pivot Table baselines.
+---
 
-SQL (BigQuery): Advanced data segmentation by seniority and work setting.
+## Executive Summary
+This project analyzes over 1,500 global job postings to identify salary benchmarks and in-demand skills for Data Analysts.
 
-Python (Pandas/NumPy): Skill analysis for high-compensation roles.
+**Key Insight:**
+- The job market remains stable over time  
+- High-paying roles increasingly require AI-related skills  
 
-Tableau: Interactive dashboarding for stakeholder visualization.
+---
 
-Key Findings:
-Market Stability: The average salary for Data Analysts has maintained a consistent baseline of $99,136 over a six-year period.
+## Business Task
 
-Experience Premium: Moving from Entry-level ($75k) to Senior ($125k) correlates with a 66% salary increase.
+**Primary Goal:**  
+Identify salary trends and key skills required for high-paying Data Analyst roles globally.
 
-Location Neutrality: There is a less than 2% variance in pay between Remote, Hybrid, and Onsite roles, proving the role is location-agnostic.
+---
 
-The AI Skill Gap: Entry-level roles in the top pay bracket ($80k+) show a disproportionately high requirement for Machine Learning and Deep Learning skills.
+## Data Process
+
+### Data Preparation
+- Cleaned and structured raw job posting data in Google Sheets  
+- Created baseline insights using pivot tables  
+
+### Data Analysis
+- Used SQL (BigQuery) to segment data by:  
+  - Experience level  
+  - Work setting (Remote, Hybrid, Onsite)  
+
+### Advanced Analysis
+- Used Python (Pandas, NumPy) to:  
+  - Analyze high-paying roles  
+  - Identify skill trends  
+
+### Visualization
+- Built an interactive dashboard in Tableau for stakeholder insights  
+
+---
+
+## Key Insights
+
+- **Market Stability**  
+  Average salary remained around $99,136 over six years  
+
+- **Experience Premium**  
+  - Entry-level: approximately $75k  
+  - Senior-level: approximately $125k  
+  - Around 66% salary increase  
+
+- **Location Neutrality**  
+  Less than 2% salary variation across Remote, Hybrid, and Onsite roles  
+
+- **AI Skill Gap**  
+  High-paying entry-level roles increasingly require:  
+  - Machine Learning  
+  - Deep Learning  
+
+---
+
+## Recommendations
+
+- **Upskill in AI Technologies**  
+  Focus on Machine Learning and AI-related tools to access higher-paying roles  
+
+- **Career Progression Focus**  
+  Advancing to senior roles significantly increases earning potential  
+
+- **Leverage Remote Opportunities**  
+  Location has minimal impact on compensation  
