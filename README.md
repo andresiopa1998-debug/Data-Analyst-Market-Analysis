@@ -1,9 +1,10 @@
 # Global Data Analyst Market Trends: A Multi-Tool Analysis (2020-2026)
 
-The Executive Summary
+The Executive Summary:
 This project analyzes over 1,500 global job records to identify salary benchmarks and technical skills for Data Analysts. By leveraging Google Sheets, SQL (BigQuery), Python (Pandas), and Tableau, I identified that the market remains remarkably stable with a high demand for AI-integrated skill sets.
 
 Tools Used:
+
 Google Sheets: Initial data exploration and Pivot Table baselines.
 
 SQL (BigQuery): Advanced data segmentation by seniority and work setting.
