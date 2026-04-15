@@ -1,0 +1,24 @@
+SELECT 
+    experience_level,
+    ROUND(AVG(salary), 2) AS avg_salary,
+    COUNT(*) AS job_count
+FROM 
+    `coursera-projects-487321.job_market_analysis.AI_Job_MarketDataset`
+WHERE 
+    job_title = 'Data Analyst'
+GROUP BY 
+    experience_level
+ORDER BY 
+    avg_salary DESC;
+
+----------------------------
+
+SELECT 
+    remote_type,
+    ROUND(AVG(salary), 2) AS avg_salary
+FROM 
+    `coursera-projects-487321.job_market_analysis.AI_Job_MarketDataset`
+WHERE 
+    job_title = 'Data Analyst'
+GROUP BY 
+    remote_type;
