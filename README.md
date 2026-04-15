@@ -1,4 +1,5 @@
 # Global Data Analyst Market Trends: A Multi-Tool Analysis (2020-2026)
+Tableu Live Demo: https://public.tableau.com/app/profile/andre.siopa/viz/GlobalDataAnalystMarketAnalysis2020-2026/Dashboard1
 
 The Executive Summary:
 This project analyzes over 1,500 global job records to identify salary benchmarks and technical skills for Data Analysts. By leveraging Google Sheets, SQL (BigQuery), Python (Pandas), and Tableau, I identified that the market remains remarkably stable with a high demand for AI-integrated skill sets.
