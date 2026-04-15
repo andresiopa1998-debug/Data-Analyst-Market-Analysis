@@ -1,4 +1,7 @@
 # Global Data Analyst Market Trends: A Multi-Tool Analysis (2020-2026)
+
+Author: Andre Siopa LinkedIn: www.linkedin.com/in/andré-siopa-5a9b91324
+
 Tableu Live Demo: https://public.tableau.com/app/profile/andre.siopa/viz/GlobalDataAnalystMarketAnalysis2020-2026/Dashboard1
 
 The Executive Summary:
